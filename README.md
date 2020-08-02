@@ -1,9 +1,8 @@
 The project has been referenced from
-https://www.dreamincode.net/forums/topic/259777-a-simple-chat-program-with-clientserver-gui-
-optional/
+https://www.dreamincode.net/forums/topic/259777-a-simple-chat-program-with-clientserver-gui-optional/
 https://www.techiedelight.com/periodically-execute-task-java//
-https://stackoverflow.com/questions/44087399/using-javas-executor-service-with-a-non-static-m
-ethod
+https://stackoverflow.com/questions/44087399/using-javas-executor-service-with-a-non-static-method
+
 Steps to run the project:
 1) Import the project named ChatApp.
 2) Run ServerGUI.java for starting the server.
